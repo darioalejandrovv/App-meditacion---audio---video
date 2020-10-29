@@ -1,0 +1,1 @@
+Aplicativo de meditación con cronómetro temporizador para la reproduccion de audio y video.
